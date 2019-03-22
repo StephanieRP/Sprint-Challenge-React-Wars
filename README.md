@@ -31,6 +31,8 @@ It makes creating a website go more smoothly and working with a team of develope
 
 - [ ] What does it mean to _think_ in react?
 
+  To break down a parts of a design before coding and seeing the individual parts that could be components that will make creating the app or website easier.
+
 - [ ] Describe state.
 
   This is the heart of a component. It holds all the information that can be sent throughout different components.
